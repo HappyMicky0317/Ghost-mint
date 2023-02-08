@@ -1,0 +1,4 @@
+@font-face {
+  font-family: 'myFont';
+  src: local('myFont'), url(./assets/fonts/Like_Snow/Like\ Snow.ttf) format('woff');
+}

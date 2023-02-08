@@ -1,0 +1,16 @@
+<svg id="组_2" data-name="组 2" xmlns="http://www.w3.org/2000/svg" width="52.53" height="68.232" viewBox="0 0 52.53 68.232">
+  <g id="组_1" data-name="组 1" transform="translate(9.096 15.44)">
+    <path id="路径_1" data-name="路径 1" d="M460.306,427.914l-14.9,11.933a7.58,7.58,0,0,0-1.179,10.655l11.933,14.9a7.58,7.58,0,0,0,10.655,1.179l14.9-11.933A7.58,7.58,0,0,0,482.894,444l-11.933-14.9A7.58,7.58,0,0,0,460.306,427.914ZM480.269,446.1a4.221,4.221,0,0,1-.656,5.927l-14.9,11.934a4.221,4.221,0,0,1-5.927-.656L446.85,448.4a4.221,4.221,0,0,1,.656-5.927l14.9-11.934a4.221,4.221,0,0,1,5.927.656Z" transform="translate(-442.562 -426.251)" fill="#1f1665"/>
+    <path id="路径_2" data-name="路径 2" d="M472.506,435.366l11.934,14.9a4.221,4.221,0,0,1-.656,5.927l-14.9,11.934a4.221,4.221,0,0,1-5.927-.656l-3.207-4,9.222-7.385a4.278,4.278,0,0,0-5.348-6.678l-9.222,7.385-3.38-4.22a4.221,4.221,0,0,1,.656-5.927l14.9-11.934A4.221,4.221,0,0,1,472.506,435.366Z" transform="translate(-446.733 -430.422)" fill="#f7b163"/>
+    <path id="路径_3" data-name="路径 3" d="M471.714,468.272a4.28,4.28,0,0,1-.663,6.013L459.2,483.772l-5.347-6.678,11.847-9.487A4.276,4.276,0,0,1,471.714,468.272Z" transform="translate(-448.813 -448.622)" fill="#1f1665"/>
+    <circle id="椭圆_1" data-name="椭圆 1" cx="2.587" cy="2.587" r="2.587" transform="translate(16.028 20.319)" fill="#fff"/>
+  </g>
+  <rect id="矩形_1" data-name="矩形 1" width="3.776" height="3.776" transform="translate(35.384 2.67) rotate(-45)" fill="#f7b163"/>
+  <rect id="矩形_2" data-name="矩形 2" width="5.664" height="5.664" transform="translate(42.8 10.064) rotate(-45)" fill="#f7b163"/>
+  <rect id="矩形_3" data-name="矩形 3" width="5.254" height="5.254" transform="translate(34.339 10.064) rotate(-45)" fill="#f7b163"/>
+  <rect id="矩形_4" data-name="矩形 4" width="8.066" height="8.066" transform="translate(41.123 20.491) rotate(-45)" fill="#f7b163"/>
+  <rect id="矩形_5" data-name="矩形 5" width="3.776" height="3.776" transform="translate(1.045 44.708) rotate(-45)" fill="#1f1665"/>
+  <rect id="矩形_6" data-name="矩形 6" width="5.664" height="5.664" transform="translate(8.461 52.102) rotate(-45)" fill="#1f1665"/>
+  <rect id="矩形_7" data-name="矩形 7" width="5.254" height="5.254" transform="translate(0 52.102) rotate(-45)" fill="#1f1665"/>
+  <rect id="矩形_8" data-name="矩形 8" width="8.066" height="8.066" transform="translate(6.784 62.529) rotate(-45)" fill="#1f1665"/>
+</svg>

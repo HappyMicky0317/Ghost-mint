@@ -1,0 +1,1 @@
+export { default as STRAPI } from './strapi.api';
